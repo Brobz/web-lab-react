@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-lab-react/static/css/main.fba75130.css",
+    "main.js": "/web-lab-react/static/js/main.c603c9e9.js",
+    "index.html": "/web-lab-react/index.html",
+    "main.fba75130.css.map": "/web-lab-react/static/css/main.fba75130.css.map",
+    "main.c603c9e9.js.map": "/web-lab-react/static/js/main.c603c9e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba75130.css",
+    "static/js/main.c603c9e9.js"
+  ]
+}
